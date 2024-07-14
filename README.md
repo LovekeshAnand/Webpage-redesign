@@ -21,8 +21,8 @@ The redesigned webpage features:
 ## Project Structure
 
 .
-├── images/
-├── index.html
+├── images/ <br>
+├── index.html <br>
 └── README.md
 
 ## Getting Started
