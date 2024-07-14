@@ -18,7 +18,7 @@ The redesigned webpage features:
 - Tailwind CSS
 - Google Fonts
 
-## Here's a overview of the transformation
+## Here's an overview of the transformation
 
 <img src="images/transformation.jpg" style="height: 500px;">
 
