@@ -18,6 +18,8 @@ The redesigned webpage features:
 - Tailwind CSS
 - Google Fonts
 
+## Here's a overview of the transformation
+<img src="images/transformation.jpg">
 ## Project Structure
 
 .
