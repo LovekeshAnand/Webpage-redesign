@@ -20,7 +20,7 @@ The redesigned webpage features:
 
 ## Here's a overview of the transformation
 
-<img src="images/transformation.jpg" style="width= 45px; height: 25px;">
+<img src="images/transformation.jpg" style="height: 200px;">
 
 ## Project Structure
 
