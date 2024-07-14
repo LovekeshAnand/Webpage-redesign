@@ -19,7 +19,7 @@ The redesigned webpage features:
 - Google Fonts
 
 ## Here's a overview of the transformation
-<img src="images/transformation.jpg">
+<img src="images/transformation.jpg" style="width= 45px;">
 ## Project Structure
 
 .
